@@ -1,0 +1,10 @@
+var word = 'dog', wordAnimal = 'cat', repeatCount = 3;
+console.log(repeatCount);
+console.log(wordAnimal);
+console.log(word);
+repeatCount = 20;
+wordAnimal = 'panda';
+word = 'cow';
+console.log(repeatCount);
+console.log(wordAnimal);
+console.log(word);
